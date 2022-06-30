@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/harshshukla.github.io/static/css/main.ae670287.css",
+    "main.js": "/harshshukla.github.io/static/js/main.83094508.js",
+    "static/js/787.1ed0c42c.chunk.js": "/harshshukla.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/me.png": "/harshshukla.github.io/static/media/me.32f7c8920b247e36ed07.png",
+    "static/media/portfolio2.png": "/harshshukla.github.io/static/media/portfolio2.9a42f693afa2ef0bc53a.png",
+    "static/media/Harsh_Shukla.pdf": "/harshshukla.github.io/static/media/Harsh_Shukla.071349ebbf0919118cc8.pdf",
+    "static/media/portfolio3.jpg": "/harshshukla.github.io/static/media/portfolio3.74b0fdf291ec65de911d.jpg",
+    "static/media/portfolio1.png": "/harshshukla.github.io/static/media/portfolio1.a600f571246b2f143d3a.png",
+    "static/media/me-about.jpeg": "/harshshukla.github.io/static/media/me-about.92fc7c9f7f5c51ed40a8.jpeg",
+    "index.html": "/harshshukla.github.io/index.html",
+    "main.ae670287.css.map": "/harshshukla.github.io/static/css/main.ae670287.css.map",
+    "main.83094508.js.map": "/harshshukla.github.io/static/js/main.83094508.js.map",
+    "787.1ed0c42c.chunk.js.map": "/harshshukla.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae670287.css",
+    "static/js/main.83094508.js"
+  ]
+}
