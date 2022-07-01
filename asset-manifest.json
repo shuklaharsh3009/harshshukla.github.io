@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/harshshukla.github.io/static/css/main.585c8c40.css",
+    "main.js": "/harshshukla.github.io/static/js/main.d02417be.js",
+    "static/media/me.png": "/harshshukla.github.io/static/media/me.c55a17dccc5a9a4627ad.png",
+    "static/media/portfolio2.png": "/harshshukla.github.io/static/media/portfolio2.9a42f693afa2ef0bc53a.png",
+    "static/media/Harsh_Shukla.pdf": "/harshshukla.github.io/static/media/Harsh_Shukla.071349ebbf0919118cc8.pdf",
+    "static/media/portfolio3.jpg": "/harshshukla.github.io/static/media/portfolio3.74b0fdf291ec65de911d.jpg",
+    "static/media/portfolio1.png": "/harshshukla.github.io/static/media/portfolio1.a600f571246b2f143d3a.png",
+    "static/media/me-about.jpeg": "/harshshukla.github.io/static/media/me-about.92fc7c9f7f5c51ed40a8.jpeg",
+    "index.html": "/harshshukla.github.io/index.html",
+    "main.585c8c40.css.map": "/harshshukla.github.io/static/css/main.585c8c40.css.map",
+    "main.d02417be.js.map": "/harshshukla.github.io/static/js/main.d02417be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.585c8c40.css",
+    "static/js/main.d02417be.js"
+  ]
+}
